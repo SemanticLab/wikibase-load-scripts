@@ -1,0 +1,9 @@
+{
+	"apiUrl": "https://base.semlab.io/w/api.php",
+	"loginCredentials": {
+		"botUsername": "",
+		"botPassword": ""
+	},
+	"isBot": true,
+	"summary": "Batch load by XXXXX to do XXXXX"
+}

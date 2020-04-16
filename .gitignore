@@ -1,1 +1,4 @@
-my_condig.json
+my_config.json
+log_*
+.DS_Store
+lljs_batch_1_enhancements.csv
