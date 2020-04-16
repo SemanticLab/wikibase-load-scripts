@@ -1,6 +1,6 @@
 To run this script you need the document ID from Selavy
 
-Change the doc ID on line 5 and run
+Change the doc ID on line 9 and run
 
 ```
 python3 export_entities.py
